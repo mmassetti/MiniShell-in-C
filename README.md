@@ -1,5 +1,5 @@
 # MiniShell-in-C
-MiniShell impemented in C. Two versions: For Unix and for Windows.
+MiniShell implemented in C. Two versions: For Unix and for Windows.
 
 Project made for the subject "Sistemas Operativos", for the degree "Ingenieria en Sistemas de Software" at Universidad Nacional del Sur, Bahia Blanca, Argentina. This project is part of a larger project that involves processes, synchronization, threads, semaphores and other Operating Systems concepts.
 
